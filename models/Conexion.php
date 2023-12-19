@@ -5,9 +5,9 @@ class Conexion{
   //1. Almacenamos los datos de conexión
   private $servidor = "localhost";
   private $puerto = "3306";
-  private $baseDatos = "SENATIDB";
+  private $baseDatos = "superhero";
   private $usuario = "root";
-  private $clave = "";
+  private $clave = "654321";
 
   //2. Método que retornará la conexión (será utilizada por las clases en el MODELS)
   public function getConexion(){
