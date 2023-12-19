@@ -11,3 +11,9 @@
 ### Diseñadores
 * edu estefano olivos marquez
 
+### Fecha de entrega: 
+* 18 de diciembre / 15:56 pm
+
+### Ultima actualizacion 
+* 19 de diciembre / 13:10 pm
+
