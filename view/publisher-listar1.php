@@ -17,6 +17,11 @@
       crossorigin="anonymous"
     />
   </head>
+  <style>
+  body {
+    background-color: #add8e6; /* This is a shade of blue. You can use your preferred color code. */
+  }
+</style>
 
   <body>
     <h1 class="text-center mt-5">Informacion de Superheroes</h1>

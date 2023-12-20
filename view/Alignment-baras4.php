@@ -17,9 +17,14 @@
       crossorigin="anonymous"
     />
   </head>
+  <style>
+  body {
+    background-color: #ffff00; /* This is a shade of blue. You can use your preferred color code. */
+  }
+</style>
 
   <body>
-    <h1 class="text-center mt-5">BUSCAR SUPERHEROES POR PUBLISHERS</h1>
+    <h1 class="text-center mt-5">BUSCAR SUPER HEROES POR PUBLISHERS</h1>
     <div class="container">      
       <div class="p-5">
         <span>Seleccione un publisher</span>

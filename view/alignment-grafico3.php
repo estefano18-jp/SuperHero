@@ -17,6 +17,11 @@
       crossorigin="anonymous"
     />
   </head>
+  <style>
+  body {
+    background-color: #ffcccc; /* This is a shade of blue. You can use your preferred color code. */
+  }
+</style>
 
   <body>
     <h1 class="text-center mt-5">Cantidad de SuperHeroes en cada bando por Publishers</h1>
